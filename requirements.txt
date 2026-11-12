@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+numpy
+scipy
+plotly
+chromadb
+vaderSentiment
+python-dotenv
+google-genai
+sec-edgar-downloader
+beautifulsoup4
